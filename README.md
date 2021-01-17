@@ -26,4 +26,4 @@ https://localhackday.mlh.io/build
 - https://github.com/kcoder63/meds_remainder
 - https://github.com/kcoder63/ML_projects
 - https://github.com/kcoder63/pythonProjects
-- More creative assets `2021/01/localhackday/kcoder63`
+- More creative [assets](2021/01/localhackday/kcoder63)
