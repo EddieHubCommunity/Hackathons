@@ -12,7 +12,7 @@ Add yourself (and the hackathon if does not exist) using this template...
 - Link to your folder
 ```
 
-*Note: if you do not have a repo for some of your assets, you can create a folder with your name under the relevant hackathon*
+*Note: if you do not have a repo for some of your assets, you can create a folder with your GitHub username under the relevant hackathon*
 
 ## MLH: LocalHackDay January 2021
 
