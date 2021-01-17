@@ -27,3 +27,10 @@ https://localhackday.mlh.io/build
 - https://github.com/kcoder63/ML_projects
 - https://github.com/kcoder63/pythonProjects
 - More creative [assets](2021/01/localhackday/kcoder63)
+
+
+### [Saumya Ranjan Nayak](https://github.com/saumya66)
+
+- https://github.com/saumya66/saumya66.github.io
+- https://github.com/saumya66/lhd-build-repo
+- https://github.com/saumya66/fityear
