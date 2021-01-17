@@ -20,3 +20,10 @@ Add yourself (and the hackathon if does not exist) using this template...
 
 https://localhackday.mlh.io/build
 
+### [Karuna Tata](https://github.com/kcoder63)
+
+- https://github.com/kcoder63/Edbeepbot
+- https://github.com/kcoder63/meds_remainder
+- https://github.com/kcoder63/ML_projects
+- https://github.com/kcoder63/pythonProjects
+- More creative assets `2021/01/localhackday/kcoder63`
