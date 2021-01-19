@@ -14,10 +14,11 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________
 ![](Guild_call.jpg)
 ### Guild Call collaboration of EddieHub and Equicode
+#### Collab with Equicode. Our journey started with "connecting with people in our guild" and went to "connecting with another guilds". We had amazing time together.
 ________________________________________________________________________________________________________________________________________________________________________________
 ![](gulid_call.jpg)
 ### Guild Call
-#### Collab with Equicode. Our journey started with "connecting with people in our guild" and went to "connecting with another guilds". We had amazing time together.
+#### Meet-up with our guild members :)
 ________________________________________________________________________________________________________________________________________________________________________________
 ![](Img-0001.jpg)
 ### Ellie's Days out
