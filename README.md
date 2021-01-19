@@ -34,3 +34,8 @@ https://localhackday.mlh.io/build
 - https://github.com/saumya66/saumya66.github.io
 - https://github.com/saumya66/lhd-build-repo
 - https://github.com/saumya66/fityear
+
+### [Aniket Singh](https://github.com/aniketsingh98571)
+
+- [Password-Encryption-MLH](https://github.com/aniketsingh98571/Password-Encryption-MLH)
+- [Techno-Dict Resources](https://github.com/aniketsingh98571/Techno-Dict-Resources)
