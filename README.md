@@ -34,3 +34,11 @@ https://localhackday.mlh.io/build
 - https://github.com/saumya66/saumya66.github.io
 - https://github.com/saumya66/lhd-build-repo
 - https://github.com/saumya66/fityear
+
+### [Nitesh Thapliyal](https://github.com/Nitesh-thapliyal)
+
+- https://github.com/Nitesh-thapliyal/Automation
+- https://github.com/Nitesh-thapliyal/Random-Word-Generator
+- https://github.com/Nitesh-thapliyal/Salary-Predictor
+- https://github.com/Nitesh-thapliyal/My-Travel-Bucket-List
+- https://github.com/Nitesh-thapliyal/TODO-App
