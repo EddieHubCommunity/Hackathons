@@ -48,3 +48,13 @@ https://localhackday.mlh.io/build
 - [Website redesign | Figma](https://www.figma.com/file/99jwzvZtXsgxRRB5CqvosM/Re-design?node-id=0%3A1)
 - [Logo creation | Figma](https://www.figma.com/file/LtH8wxVYHjhkS7vC9icBR2/MDN-Logo)
 - [Ellie Mascot Dress design](https://www.figma.com/file/zzioizhy09t22DEq1erHHx/Ellie-Mascot)
+
+### [Utkarsh Singh](https://github.com/Utkarsh299-tech)
+
+- https://github.com/Utkarsh299-tech/Utkarsh299-tech.github.io
+- https://github.com/Utkarsh299-tech/LHD-Build
+- https://github.com/Utkarsh299-tech/Encrypting-your-password
+- https://github.com/Utkarsh299-tech/Tic-tac-toe-Game
+- https://github.com/Utkarsh299-tech/To-do-list-app
+- https://github.com/Utkarsh299-tech/Learn-Bootstrap
+- More creative [assets](https://github.com/Utkarsh299-tech/Hackathons/tree/main/2021/01/localhackday/Utkarsh299-tech)
