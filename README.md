@@ -35,6 +35,15 @@ https://localhackday.mlh.io/build
 - https://github.com/saumya66/lhd-build-repo
 - https://github.com/saumya66/fityear
 
+### [Aditya Raute](https://github.com/dumbcoder7)
+
+- https://github.com/dumbcoder7/MLHHelloWorld
+- https://github.com/dumbcoder7/MLH-NonMainstream
+- https://github.com/dumbcoder7/MLHEncryption
+- https://github.com/dumbcoder7/MLH-Data-Visualization
+- https://github.com/dumbcoder7/MLH-Sorting
+- https://www.kaggle.com/adityaraute/mlh-data
+
 ### [Aniket Singh](https://github.com/aniketsingh98571)
 
 - [Password-Encryption-MLH](https://github.com/aniketsingh98571/Password-Encryption-MLH)
