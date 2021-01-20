@@ -34,3 +34,13 @@ https://localhackday.mlh.io/build
 - https://github.com/saumya66/saumya66.github.io
 - https://github.com/saumya66/lhd-build-repo
 - https://github.com/saumya66/fityear
+
+### [Utkarsh Singh](https://github.com/Utkarsh299-tech)
+
+- https://github.com/Utkarsh299-tech/Utkarsh299-tech.github.io
+- https://github.com/Utkarsh299-tech/LHD-Build
+- https://github.com/Utkarsh299-tech/Encrypting-your-password
+- https://github.com/Utkarsh299-tech/Tic-tac-toe-Game
+- https://github.com/Utkarsh299-tech/To-do-list-app
+- https://github.com/Utkarsh299-tech/Learn-Bootstrap
+- More creative [assets](https://github.com/Utkarsh299-tech/Hackathons/tree/main/2021/01/localhackday/Utkarsh299-tech)
