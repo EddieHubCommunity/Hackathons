@@ -20,6 +20,12 @@ Add yourself (and the hackathon if does not exist) using this template...
 
 https://localhackday.mlh.io/build
 
+### [Dhriti Roy](https://github.com/Dhriti-Roy)
+- https://github.com/Dhriti-Roy/My-Website
+- https://github.com/Dhriti-Roy/Text-Editor
+- https://github.com/Dhriti-Roy/Space-Invaders-Pygame
+- [My assets of lhd](2021/01/localhackday/Dhriti-Roy)
+
 ### [Karuna Tata](https://github.com/kcoder63)
 
 - https://github.com/kcoder63/Edbeepbot
