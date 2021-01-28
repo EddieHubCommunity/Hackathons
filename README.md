@@ -41,7 +41,6 @@ https://localhackday.mlh.io/build
 - https://github.com/saumya66/lhd-build-repo
 - https://github.com/saumya66/fityear
 
-
 ### [Ankur Gupta](https://github.com/ankurg132)
 
 - https://ankurg132.github.io
