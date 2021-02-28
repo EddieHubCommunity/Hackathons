@@ -7,4 +7,4 @@
 - skeleton.png is not my work
 
 
-![image](./skeleton.png)
+![image](./udemy_game_backgrounds.svg)
