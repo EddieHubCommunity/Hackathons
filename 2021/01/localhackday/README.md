@@ -22,6 +22,14 @@ https://localhackday.mlh.io/build
 - https://github.com/kcoder63/pythonProjects
 - More creative [assets](kcoder63)
 
+### [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+
+- https://github.com/kaiwalyakoparkar/Data-Structures-And-Algorithm-Interview-Kit
+- https://github.com/kaiwalyakoparkar/flashtype
+- https://github.com/kaiwalyakoparkar/NameIt
+- https://github.com/kaiwalyakoparkar/Backup-Portfolio
+- https://github.com/kaiwalyakoparkar/Pharmacy-Management-System
+- More creative [LHD Assets](kaiwalyakoparkar)
 
 ### [Saumya Ranjan Nayak](https://github.com/saumya66)
 
