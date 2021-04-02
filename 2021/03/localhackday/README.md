@@ -20,6 +20,12 @@ https://localhackday.mlh.io/
 - https://github.com/sudiptog81/lhd-share-mt3620
 - https://www.figma.com/file/59FWhQldhGnrIKAWz7v7pX/GitHubRemake?node-id=0%3A1
 
+### [Rishit Dagli](https://github.com/Rishit-dagli)
+- https://github.com/Rishit-dagli/MIRNet-TFJS (Updated)
+- https://twitter.com/bot_tensorflow (Finally built an idea I had for long)
+- https://github.com/Rishit-dagli/Gradient-Centralization-TensorFlow (Updated)
+- https://blog.rishit.tech/ (Added my blogs to this dormant page and built it as a true blogging website)
+- https://www.figma.com/file/govWWeCPzRmQJNQ7VY4fJL/gctf?node-id=0%3A1 (Learnt some Figma on the go)
 
 ###[Shivam Dubey](https://github.com/ShivamDubey100)
 -https://github.com/ShivamDubey100/my-voice-assistant-alexa
