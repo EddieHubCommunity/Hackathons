@@ -19,3 +19,13 @@ https://localhackday.mlh.io/
 - https://github.com/sudiptog81/lhd-share-photos
 - https://github.com/sudiptog81/lhd-share-mt3620
 - https://www.figma.com/file/59FWhQldhGnrIKAWz7v7pX/GitHubRemake?node-id=0%3A1
+
+### [Karuna Tata](https://github.com/kcoder63)
+- [LHD: Share Silly Demo](https://youtu.be/6RGPandlOxg)
+- https://github.com/kcoder63/LHD_Share/tree/main/Eddie_snake
+- https://github.com/kcoder63/Eddiehub_share
+- https://github.com/kcoder63/Musicvisualizer
+- https://github.com/kcoder63/LHD_Share/tree/main/imageshare
+- https://github.com/kcoder63/LHD_Share/tree/main/youtube_playlist
+- https://github.com/kcoder63/LHD_Share/blob/main/commandlinegame.py
+- https://github.com/kcoder63/LHD_Share/blob/main/weather.py
