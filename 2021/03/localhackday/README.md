@@ -49,3 +49,10 @@ https://localhackday.mlh.io/
 - https://github.com/kcoder63/LHD_Share/tree/main/youtube_playlist
 - https://github.com/kcoder63/LHD_Share/blob/main/commandlinegame.py
 - https://github.com/kcoder63/LHD_Share/blob/main/weather.py
+
+
+### [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day1Challenges
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day2Challenges
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day3Challenges
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day4Challenges
