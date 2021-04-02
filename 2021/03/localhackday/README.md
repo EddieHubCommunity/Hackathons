@@ -19,3 +19,10 @@ https://localhackday.mlh.io/
 - https://github.com/sudiptog81/lhd-share-photos
 - https://github.com/sudiptog81/lhd-share-mt3620
 - https://www.figma.com/file/59FWhQldhGnrIKAWz7v7pX/GitHubRemake?node-id=0%3A1
+
+
+### [Vincent Villafuerte](https://github.com/vinzvinci)
+- <a href="https://github.com/vinzvinci/twilio-call-clone">https://github.com/vinzvinci/twilio-call-clone</a>
+- <a href="https://github.com/vinzvinci/Mini_ATM">https://github.com/vinzvinci/Mini_ATM</a>
+- <a href="https://github.com/vinzvinci/Eddie-Bird">https://github.com/vinzvinci/Eddie-Bird</a>
+- Creative <a href="https://github.com/vinzvinci/Hackathons/tree/main/2021/03/localhackday/vinzvinci">assets</a>
