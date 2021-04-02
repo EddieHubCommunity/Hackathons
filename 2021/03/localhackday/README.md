@@ -19,3 +19,10 @@ https://localhackday.mlh.io/
 - https://github.com/sudiptog81/lhd-share-photos
 - https://github.com/sudiptog81/lhd-share-mt3620
 - https://www.figma.com/file/59FWhQldhGnrIKAWz7v7pX/GitHubRemake?node-id=0%3A1
+
+###[Shivam Dubey](https://github.com/ShivamDubey100)
+-https://github.com/ShivamDubey100/my-voice-assistant-alexa
+-https://github.com/ShivamDubey100/brand-concept-with-canva
+-https://github.com/ShivamDubey100/major-league-banking
+-https://github.com/ShivamDubey100/melon-squad
+-https://github.com/ShivamDubey100/FaceMask_Detector
