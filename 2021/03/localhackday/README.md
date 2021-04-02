@@ -27,7 +27,7 @@ https://localhackday.mlh.io/
 - https://blog.rishit.tech/ (Added my blogs to this dormant page and built it as a true blogging website)
 - https://www.figma.com/file/govWWeCPzRmQJNQ7VY4fJL/gctf?node-id=0%3A1 (Learnt some Figma on the go)
 
-###[Shivam Dubey](https://github.com/ShivamDubey100)
+### [Shivam Dubey](https://github.com/ShivamDubey100)
 -https://github.com/ShivamDubey100/my-voice-assistant-alexa
 -https://github.com/ShivamDubey100/brand-concept-with-canva
 -https://github.com/ShivamDubey100/major-league-banking
