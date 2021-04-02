@@ -56,3 +56,6 @@ https://localhackday.mlh.io/
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day2Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day3Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day4Challenges
+
+### [Sambhav Rakhe](https://github.com/SamDev98)
+- https://github.com/SamDev98/password-manager-py
