@@ -33,6 +33,10 @@ https://localhackday.mlh.io/
 - https://github.com/ShivamDubey100/major-league-banking
 - https://github.com/ShivamDubey100/melon-squad
 - https://github.com/ShivamDubey100/FaceMask_Detector
+- https://github.com/ShivamDubey100/browser-extension
+- https://github.com/ShivamDubey100/Google-homepage-clone
+- https://github.com/ShivamDubey100/instagram-loginpage-clone
+- https://github.com/ShivamDubey100/flutter-calculatorapp
 
 ### [Vincent Villafuerte](https://github.com/vinzvinci)
 - <a href="https://github.com/vinzvinci/twilio-call-clone">https://github.com/vinzvinci/twilio-call-clone</a>
