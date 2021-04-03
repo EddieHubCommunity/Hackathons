@@ -60,3 +60,8 @@ https://localhackday.mlh.io/
 - https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20MS%20Paint%20Bob%20Ross.jpg (MS Paint Bob Ross)
 - https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20Share%20your%20cofee%20with%20Guild.png (Coffee with Guild)
 
+### [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day1Challenges
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day2Challenges
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day3Challenges
+- https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day4Challenges
