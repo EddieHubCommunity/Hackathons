@@ -50,7 +50,6 @@ https://localhackday.mlh.io/
 - https://github.com/kcoder63/LHD_Share/blob/main/commandlinegame.py
 - https://github.com/kcoder63/LHD_Share/blob/main/weather.py
 
-
 ### [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day1Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day2Challenges
@@ -61,3 +60,6 @@ https://localhackday.mlh.io/
 - https://github.com/karan-ksrk/Colornet
 - https://github.com/karan-ksrk/crypto
 - https://github.com/karan-ksrk/Pourier
+
+### [Sambhav Rakhe](https://github.com/SamDev98)
+- https://github.com/SamDev98/password-manager-py
