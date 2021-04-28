@@ -70,6 +70,17 @@ https://localhackday.mlh.io/
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day3Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day4Challenges
 
+### [Shubham Singh](https://github.com/suubh)
+- https://github.com/suubh/First-Ruby-app
+- https://github.com/suubh/LHD-SHARE-/tree/main/OCR
+- https://github.com/suubh/LHD-SHARE-/tree/main/InstrumentEmulator
+- https://github.com/suubh/LHD-SHARE-/tree/main/ML_Data
+- https://github.com/suubh/LHD-SHARE-/tree/main/SillyProject
+- https://github.com/suubh/LHD-SHARE-/blob/main/Automate/attendance.py
+- https://github.com/suubh/LHD-SHARE-/tree/main/NLP
+- https://github.com/suubh/LHD-SHARE-/tree/main/UniqueProgLanguage
+- [Creative assets](https://github.com/suubh/LHD-SHARE-/tree/main/Creative%20assets)
+
 ### [Karan Ksrk](https://github.com/karan-ksrk)
 - https://github.com/karan-ksrk/Colornet
 - https://github.com/karan-ksrk/crypto
