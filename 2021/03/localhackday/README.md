@@ -65,3 +65,11 @@ https://localhackday.mlh.io/
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day2Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day3Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day4Challenges
+
+### [Karan Ksrk](https://github.com/karan-ksrk)
+- https://github.com/karan-ksrk/Colornet
+- https://github.com/karan-ksrk/crypto
+- https://github.com/karan-ksrk/Pourier
+
+### [Sambhav Rakhe](https://github.com/SamDev98)
+- https://github.com/SamDev98/password-manager-py
