@@ -33,6 +33,10 @@ https://localhackday.mlh.io/
 - https://github.com/ShivamDubey100/major-league-banking
 - https://github.com/ShivamDubey100/melon-squad
 - https://github.com/ShivamDubey100/FaceMask_Detector
+- https://github.com/ShivamDubey100/browser-extension
+- https://github.com/ShivamDubey100/Google-homepage-clone
+- https://github.com/ShivamDubey100/instagram-loginpage-clone
+- https://github.com/ShivamDubey100/flutter-calculatorapp
 
 ### [Vincent Villafuerte](https://github.com/vinzvinci)
 - <a href="https://github.com/vinzvinci/twilio-call-clone">https://github.com/vinzvinci/twilio-call-clone</a>
@@ -65,6 +69,17 @@ https://localhackday.mlh.io/
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day2Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day3Challenges
 - https://github.com/kaiwalyakoparkar/MLH-LHD-Share/tree/main/EddieHubGuild2021/Day4Challenges
+
+### [Shubham Singh](https://github.com/suubh)
+- https://github.com/suubh/First-Ruby-app
+- https://github.com/suubh/LHD-SHARE-/tree/main/OCR
+- https://github.com/suubh/LHD-SHARE-/tree/main/InstrumentEmulator
+- https://github.com/suubh/LHD-SHARE-/tree/main/ML_Data
+- https://github.com/suubh/LHD-SHARE-/tree/main/SillyProject
+- https://github.com/suubh/LHD-SHARE-/blob/main/Automate/attendance.py
+- https://github.com/suubh/LHD-SHARE-/tree/main/NLP
+- https://github.com/suubh/LHD-SHARE-/tree/main/UniqueProgLanguage
+- [Creative assets](https://github.com/suubh/LHD-SHARE-/tree/main/Creative%20assets)
 
 ### [Karan Ksrk](https://github.com/karan-ksrk)
 - https://github.com/karan-ksrk/Colornet
