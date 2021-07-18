@@ -7,11 +7,11 @@ Create a folder here if you have assets, use your GitHub username, for example `
 https://init.mlh.io
 
 ### [Animesh Pathak](https://github.com/sonichigo)
-- https://github.com/Sonichigo/Python-Chatting
-- https://github.com/Sonichigo/BattleShip-Twilio
-- https://github.com/Sonichigo/SIM-FOOTBALL
-- https://github.com/Sonichigo/Water-Reminder
-- https://github.com/Sonichigo/Web-Scraping
-- https://github.com/Sonichigo/Automatic-Morning
-- https://github.com/Sonichigo/Twitch-Bot
-- https://github.com/Sonichigo/Twitter-Bot
+- [Python Chatroom]https://github.com/Sonichigo/Python-Chatting
+- [Twillio Game]https://github.com/Sonichigo/BattleShip-Twilio
+- [Football Simulator]https://github.com/Sonichigo/SIM-FOOTBALL
+- [Drink Water]https://github.com/Sonichigo/Water-Reminder
+- [Scrapper]https://github.com/Sonichigo/Web-Scraping
+- [Auto Morning]https://github.com/Sonichigo/Automatic-Morning
+- [Twitch Bot]https://github.com/Sonichigo/Twitch-Bot
+- [Tweet Bot]https://github.com/Sonichigo/Twitter-Bot
