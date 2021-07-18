@@ -24,4 +24,4 @@ List of users and assets can be found in this [README](2021/03/localhackday/READ
 
 ## MLH: INIT June-July 2021
 
-List of users and assets can be found in this [README](2021/06/MLH INIT/README.md)
+List of users and assets can be found in this [README](2021/06/INIT/README.md)
