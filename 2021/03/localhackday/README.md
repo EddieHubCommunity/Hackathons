@@ -55,7 +55,6 @@ https://localhackday.mlh.io/
 - https://github.com/kcoder63/LHD_Share/blob/main/weather.py
 
 ### [Prathima Kadari](https://github.com/prathimacode-hub)
-- https://github.com/prathimacode-hub/lhdshare-assets
 - https://github.com/prathimacode-hub/FaceMask_Detector (Face Mask Detector)
 - https://github.com/prathimacode-hub/Convolution-Neural-Network (Exploring Artificial Intelligence)
 - https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20Eddie%20Hub%20Create%20a%20Brand%20Concept.mp4 (Brand Concept)
